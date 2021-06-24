@@ -1,5 +1,4 @@
 bin/
 out/
 build/
-gradle/
 .gradle/
